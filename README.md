@@ -4,7 +4,7 @@ In this project, you'll label the pixels of a road in images using a Fully Convo
 
 Based on the paper [Fully Convolutional Networks for Semantic Segmentation](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)
 
-![FCN](./runs/FCN.PNG)
+![FCN](./results/FCN.PNG)
 
 * 1- Encoder: Pre-trained VGG16 neural network
 * 2- 1 x 1 convolution
@@ -22,20 +22,20 @@ The following Hyper-parameters were used in training the FCN
 
 Loss after 20 Epochs
 
-![Loss](./runs/loss.PNG)
+![Loss](./results/loss.PNG)
 
 ### Samples
 
 Below are a few sample images from the output of the fully convolutional network
 
-![sample1](./runs/1520555910.1116054/um_000003.png)
-![sample2](./runs/1520555910.1116054/um_000008.png)
-![sample3](./runs/1520555910.1116054/um_000013.png)
-![sample4](./runs/1520555910.1116054/um_000032.png)
-![sample5](./runs/1520555910.1116054/umm_000024.png)
-![sample6](./runs/1520555910.1116054/umm_000038.png)
-![sample7](./runs/1520555910.1116054/uu_000001.png)
-![sample8](./runs/1520555910.1116054/uu_000010.png)
+![sample1](./results/1520555910.1116054/um_000003.png)
+![sample2](./results/1520555910.1116054/um_000008.png)
+![sample3](./results/1520555910.1116054/um_000013.png)
+![sample4](./results/1520555910.1116054/um_000032.png)
+![sample5](./results/1520555910.1116054/umm_000024.png)
+![sample6](./results/1520555910.1116054/umm_000038.png)
+![sample7](./results/1520555910.1116054/uu_000001.png)
+![sample8](./results/1520555910.1116054/uu_000010.png)
 
 ### Setup
 ##### Frameworks and Packages
